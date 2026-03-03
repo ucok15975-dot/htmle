@@ -1,0 +1,3 @@
+ID ADMIN
+ID =admin@cinemax.id
+PASSWORD =admin123
